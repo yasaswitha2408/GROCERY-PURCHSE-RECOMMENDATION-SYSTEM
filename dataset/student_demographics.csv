@@ -1,0 +1,128 @@
+student_id,home_state,dietary_preference,age,gender,allergies
+1,Tamil Nadu,vegetarian,20,M,
+2,Kerala,non-vegetarian,22,F,peanuts
+3,Tamil Nadu,Vegetarian,20,M,
+4,Kerala,Non-Vegetarian,22,F,Peanuts
+5,Karnataka,Vegetarian,23,M,
+6,Telangana,Vegan,21,F,Soy
+7,Andhra Pradesh,Non-Vegetarian,25,M,
+8,Maharashtra,Vegetarian,19,F,None
+9,Uttar Pradesh,Non-Vegetarian,24,M,Milk
+10,Gujarat,Vegan,26,F,None
+11,Bihar,Vegetarian,22,M,None
+12,Rajasthan,Non-Vegetarian,23,F,Eggs
+13,Delhi,Non-Vegetarian,22,M,Gluten
+14,Punjab,Vegetarian,20,F,Peanuts
+15,Tamil Nadu,Vegan,24,M,None
+16,Madhya Pradesh,Non-Vegetarian,23,F,Shellfish
+17,Haryana,Vegetarian,21,M,None
+18,Goa,Vegan,20,F,None
+19,Chhattisgarh,Non-Vegetarian,22,M,None
+20,Assam,Vegetarian,23,F,Milk
+21,Himachal Pradesh,Non-Vegetarian,25,M,None
+22,Sikkim,Vegetarian,24,F,None
+23,Tamil Nadu,Non-Vegetarian,22,M,None
+24,Kerala,Vegetarian,24,F,None
+25,Madhya Pradesh,Non-Vegetarian,23,M,Peanuts
+26,Uttar Pradesh,Vegetarian,21,F,None
+27,Gujarat,Non-Vegetarian,25,M,Milk
+28,Haryana,Vegetarian,20,F,Eggs
+29,Maharashtra,Non-Vegetarian,22,M,None
+30,Andhra Pradesh,Vegetarian,24,F,None
+31,Rajasthan,Vegan,21,M,None
+32,Bihar,Non-Vegetarian,26,F,Shellfish
+33,Delhi,Vegetarian,23,M,None
+34,Chhattisgarh,Non-Vegetarian,24,F,None
+35,Goa,Vegan,22,M,None
+36,Punjab,Vegetarian,21,F,Gluten
+37,Assam,Non-Vegetarian,25,M,None
+38,Himachal Pradesh,Vegetarian,23,F,None
+39,Karnataka,Non-Vegetarian,24,M,None
+40,Jharkhand,Vegan,22,F,None
+41,Odisha,Vegetarian,20,M,None
+42,Uttarakhand,Non-Vegetarian,26,F,Peanuts
+43,Telangana,Vegetarian,21,M,None
+44,Rajasthan,Vegan,22,F,None
+45,Sikkim,Non-Vegetarian,23,M,Dairy
+46,Jammu & Kashmir,Vegetarian,25,F,None
+47,Mizoram,Non-Vegetarian,21,M,None
+48,Nagaland,Vegetarian,24,F,None
+49,Meghalaya,Non-Vegetarian,23,M,Fish
+50,Tripura,Vegan,22,F,None
+51,West Bengal,Vegetarian,24,M,None
+52,Karnataka,Non-Vegetarian,21,F,None
+53,Kerala,Vegetarian,22,M,None
+54,Maharashtra,Vegan,23,F,None
+55,Tamil Nadu,Non-Vegetarian,25,M,None
+56,Andhra Pradesh,Vegetarian,20,F,Milk
+57,Gujarat,Non-Vegetarian,26,M,None
+58,Bihar,Vegetarian,22,F,None
+59,Rajasthan,Vegan,24,M,Soy
+60,Uttarakhand,Non-Vegetarian,21,F,None
+61,Delhi,Vegetarian,25,M,Eggs
+62,Punjab,Non-Vegetarian,23,F,None
+63,West Bengal,Vegan,22,M,None
+64,Haryana,Vegetarian,21,F,None
+65,Madhya Pradesh,Non-Vegetarian,24,M,Peanuts
+66,Chhattisgarh,Vegetarian,23,F,None
+67,Goa,Non-Vegetarian,26,M,Shellfish
+68,Odisha,Vegan,22,F,None
+69,Uttar Pradesh,Vegetarian,25,M,Gluten
+70,Himachal Pradesh,Non-Vegetarian,24,F,None
+71,Telangana,Non-Vegetarian,22,M,None
+72,Mizoram,Vegetarian,21,F,None
+73,Nagaland,Vegan,23,M,None
+74,Meghalaya,Non-Vegetarian,24,F,Fish
+75,Sikkim,Vegetarian,22,M,None
+76,Jammu & Kashmir,Non-Vegetarian,23,F,None
+77,Tripura,Vegetarian,20,M,None
+78,Chhattisgarh,Non-Vegetarian,21,F,None
+79,Madhya Pradesh,Vegan,25,M,None
+80,Rajasthan,Vegetarian,24,F,None
+81,Uttar Pradesh,Non-Vegetarian,22,M,None
+82,Goa,Vegan,21,F,None
+83,Kerala,Vegetarian,23,M,None
+84,Gujarat,Non-Vegetarian,22,F,None
+85,Assam,Vegetarian,25,M,None
+86,Haryana,Non-Vegetarian,21,F,None
+87,Bihar,Vegan,23,M,None
+88,West Bengal,Non-Vegetarian,24,F,Peanuts
+89,Karnataka,Vegetarian,21,M,None
+90,Himachal Pradesh,Vegetarian,22,M,None
+91,Maharashtra,Non-Vegetarian,23,F,None
+92,Kerala,Vegan,21,M,None
+93,Uttarakhand,Vegetarian,24,F,None
+94,Punjab,Non-Vegetarian,22,M,None
+95,Delhi,Vegetarian,25,F,Gluten
+96,Chhattisgarh,Non-Vegetarian,21,M,None
+97,West Bengal,Vegan,23,F,None
+98,Rajasthan,Vegetarian,24,M,None
+99,Goa,Non-Vegetarian,22,F,Shellfish
+100,Madhya Pradesh,Vegetarian,23,M,None
+101,Assam,Non-Vegetarian,21,F,Peanuts
+102,Karnataka,Vegan,20,M,None
+103,Gujarat,Non-Vegetarian,24,F,None
+104,Telangana,Vegetarian,22,M,None
+105,Bihar,Non-Vegetarian,21,F,None
+106,Nagaland,Vegetarian,20,M,None
+107,Mizoram,Non-Vegetarian,22,F,None
+108,Uttar Pradesh,Vegan,23,M,None
+109,Himachal Pradesh,Vegetarian,22,M,None
+110,Maharashtra,Non-Vegetarian,23,F,None
+111,Kerala,Vegan,21,M,None
+112,Uttarakhand,Vegetarian,24,F,None
+113,Punjab,Non-Vegetarian,22,M,None
+114,Delhi,Vegetarian,25,F,Gluten
+115,Chhattisgarh,Non-Vegetarian,21,M,None
+116,West Bengal,Vegan,23,F,None
+117,Rajasthan,Vegetarian,24,M,None
+118,Goa,Non-Vegetarian,22,F,Shellfish
+119,Madhya Pradesh,Vegetarian,23,M,None
+120,Assam,Non-Vegetarian,21,F,Peanuts
+121,Karnataka,Vegan,20,M,None
+122,Gujarat,Non-Vegetarian,24,F,None
+123,Telangana,Vegetarian,22,M,None
+124,Bihar,Non-Vegetarian,21,F,None
+125,Nagaland,Vegetarian,20,M,None
+126,Mizoram,Non-Vegetarian,22,F,None
+127,Uttar Pradesh,Vegan,23,M,None
